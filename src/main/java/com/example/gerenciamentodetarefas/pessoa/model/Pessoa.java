@@ -1,5 +1,6 @@
 package com.example.gerenciamentodetarefas.pessoa.model;
 
+import com.example.gerenciamentodetarefas.tarefa.model.Tarefa;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
